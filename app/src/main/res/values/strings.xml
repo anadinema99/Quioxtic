@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quixotic</string>
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="question_1">Amartya Sen was awarded the Nobel prize for his contribution to Welfare Economics.</string>
+    <string name="question_2">The Headquarters of the Southern Naval Command of the India Navy is located at Thiruvananthapuram.</string>
+    <string name="question_3">Earth Rotation is also called annual motion of the earth?</string>
+    <string name="question_4">There are 4 sessions of the Parliament each year: Spring, Summer, Autumn and Winter.</string>
+    <string name="question_5">The Mahabharata is not a part of The Bhagavad Gita.</string>
+    <string name="question_6">Secularism in India means: A state that supports or participates in a neutral manner in the affairs of all religious groups.</string>
+    <string name="next_text">Next</string>
+    <string name="prev_text">Previous</string>
+    <string name="submit_text">SUBMIT</string>
+    <string name="results_are_out">Results are out.</string>
+
+</resources>
